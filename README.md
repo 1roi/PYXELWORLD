@@ -18,6 +18,7 @@ Based on fogleman's Minecraft-inspired demo (https://github.com/fogleman/Minecra
 | A                 | Move Left         |
 | D                 | Move Right        |
 | Space             | Jump              |
+| Left Ctrl         | Sprint            |
 | Move Mouse        | Move Camera       |
 | Mouse Left Click  | Destroy Block     |
 | Mouse Right Click | Place Block       |
